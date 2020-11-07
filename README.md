@@ -2,6 +2,9 @@
 
 Monopoly Deal Replica
 
+![baboli_deal_debug_mode](https://user-images.githubusercontent.com/69477892/98444899-8c858800-2125-11eb-94d4-90afdd160431.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
